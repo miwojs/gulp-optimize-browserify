@@ -1,0 +1,14 @@
+{
+  "name": "gulp-optimize-browserify",
+  "version": "0.0.1",
+  "description": "Minimize coffescript result from browserify",
+  "author": "Dušan Kmeť",
+  "keywords": [
+    "gulp plugin"
+  ],
+  "main": "./index.js",
+  "dependencies": {
+    "gulp-util": "^3.0.4",
+    "through2": "^0.6.5"
+  }
+}
